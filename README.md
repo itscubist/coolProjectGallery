@@ -6,7 +6,7 @@ Enjoy the gallery of 3 old projects:
 1) ARMUT - The dueling robot with a coilgun from the company: DEBSA
 DEBSA Members: Doga Veske, (Arda) Efe Okay, Baran Bodur, Serhan Yilmaz, Alper Ozkan
 
-DEBSA_story.mp4: Our coilgun and robot, coming together from nothing!
+developmentVideo.txt: Link to a video showing our coilgun and robot, coming together from nothing!
 debsaPhoto: Photo of the members and the final ARMUT!
 Our logo in gif: A bullet named DEBSA in a coilgun
 Our CDR and Final Reports in pdf
